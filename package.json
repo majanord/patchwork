@@ -11,9 +11,13 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "fabric": "^5.2.1",
+    "konva": "^8.3.11",
+    "vue": "^3.2.13",
+    "vue-konva": "^3.0.1"
   },
   "devDependencies": {
+    "@types/fabric": "^4.5.11",
     "@types/jest": "^27.0.1",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
