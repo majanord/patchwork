@@ -84,7 +84,7 @@ export default {
 
       for (let i = 0; i < 10; i += 1) {
         console.log('row', i);
-        for (let j = 0; j < 15; j += 1) {
+        for (let j = 0; j < 18; j += 1) {
           console.log('col', j);
           console.log('A', i % 2 !== 0 && j % 2 === 0);
           let check = true;
